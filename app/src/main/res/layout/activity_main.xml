@@ -73,7 +73,7 @@
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Nauczyciek"
+        android:text="Nauczyciel"
         android:textColor="#3BEC42"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
